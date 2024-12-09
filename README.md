@@ -1,1 +1,1 @@
-# deep_learning_IPSI3
+# IPSI3 - Deep learning project
